@@ -3,7 +3,7 @@
 KNSegmentation is a method to segment 12-lead ECG signal into P-wave, QRS complex, and T-wave. For each wave, it identifies the onset, offset, and peak(s) of the wave. For QRS complex, it also identifies individual waves comprising the complex (Q, R, R', S, S').
 KNSegmentation is light-weight and based on a recursive divide-and-conqure algorithm called Piecewise Linear Approximation, which reduces the representation of the ECG signal to a sequence of its significant points.
 ## Future Release
-The Matlab section of the code will be migrating to Python shortly and the tool will be expanded to allow users to upload their own ECG.
+The Matlab section of the code will be migrated to Python shortly and the tool will be expanded to allow users to upload their own ECG.
 
 # Usage
 
